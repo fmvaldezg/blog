@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog"
 date: 2026-03-12
-draft: false
+draft: true
 summary: "An introduction to this blog — where I'll share thoughts on geography, GIS, mapping, and urban challenges."
 tags: ["GIS", "geography", "personal"]
 ---
