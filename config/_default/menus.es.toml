@@ -9,6 +9,6 @@
   weight = 20
 
 [[main]]
-  name = "Sitio Principal"
-  url = "https://felipevaldez.com"
+  name = "Página Principal"
+  url = "https://felipevaldez.com/es/"
   weight = 30
