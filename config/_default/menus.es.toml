@@ -1,0 +1,14 @@
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Etiquetas"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Sitio Principal"
+  url = "https://felipevaldez.com"
+  weight = 30

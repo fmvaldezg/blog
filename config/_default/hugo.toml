@@ -1,5 +1,6 @@
 baseURL = "https://blog.felipevaldez.com/"
 languageCode = "en"
+defaultContentLanguage = "en"
 title = "Felipe Valdez - Blog"
 theme = "blowfish"
 enableRobotsTXT = true
