@@ -10,7 +10,7 @@ Bienvenides! Este es el primer post en mi blog. Aquí, compartiré pensamientos,
 
 ## ¿Qué esperar?
 
-Escribiré sobre SIS participativo, inequidades espaciales y cómo las herramientas de la geografía pueden ayudar a las comunidades a co-crear soluciones a estos retos urbanos.  También compartiré algunos consejos prácticos sobre flujos de trabajo de mapeo, análisis de datos y herramientas geoespaciales de código abierto.
+Escribiré sobre SIG participativo, inequidades espaciales y cómo las herramientas de la geografía pueden ayudar a las comunidades a co-crear soluciones para alcanzar la justicia social.  También compartiré algunos consejos prácticos sobre flujos de trabajo de mapeo, análisis de datos y herramientas geoespaciales de código abierto.
 
 ## ¿Por qué un blog?
 

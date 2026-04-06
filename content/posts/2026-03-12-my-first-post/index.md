@@ -10,7 +10,7 @@ Welcome! This is the first post on my blog. Here I'll be sharing thoughts, tutor
 
 ## What to expect
 
-I plan to write about participatory GIS, spatial inequality, and how geographic tools can help communities co-create solutions to urban challenges. I'll also share practical tips on mapping workflows, data analysis, and open-source geospatial tools.
+I plan to write about participatory GIS, spatial inequality, and how geographic tools can help communities co-create solutions to achieve social justice. I'll also share practical tips on mapping workflows, data analysis, and open-source geospatial tools.
 
 ## Why a blog?
 

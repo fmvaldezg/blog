@@ -8,8 +8,8 @@ languageCode = "es"
   [params.author]
     name = "Felipe Valdez"
     image = "img/avatar.jpg"
-    headline = "Geógrafo | Especialista en SIG | Cartografía para el Impacto Social"
-    bio = "Geógrafo urbano y económico utilizando SIG y cartografía para el desarrollo comunitario."
+    headline = "Geógrafo | Especialista en SIG | Cartografía para la Justicia Social"
+    bio = "Geógrafo urbano y económico utilizando SIG y cartografía para la Justicia Social."
     links = [
       { email = "mailto:felipemiguelvaldez@gmail.com" },
       { linkedin = "https://www.linkedin.com/in/felipevaldez/" },

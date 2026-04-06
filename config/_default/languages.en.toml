@@ -7,8 +7,8 @@ title = "Felipe Valdez - Blog"
   [params.author]
     name = "Felipe Valdez"
     image = "img/avatar.jpg"
-    headline = "Geographer | GIS Specialist | Mapping for Social Impact"
-    bio = "Urban and economic geographer leveraging GIS and mapping for community development."
+    headline = "Geographer | GIS Specialist | Mapping for Social Justice"
+    bio = "Urban and economic geographer leveraging GIS and mapping for Social Justice."
     links = [
       { email = "mailto:felipemiguelvaldez@gmail.com" },
       { linkedin = "https://www.linkedin.com/in/felipevaldez/" },
