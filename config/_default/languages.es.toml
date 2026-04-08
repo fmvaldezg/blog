@@ -13,7 +13,8 @@ languageCode = "es"
     links = [
       { email = "mailto:felipemiguelvaldez@gmail.com" },
       { linkedin = "https://www.linkedin.com/in/felipevaldez/" },
-      { github = "https://github.com/fmvaldezg" },
+      { orcid = "https://orcid.org/0000-0001-6999-5657" },
       { google-scholar = "https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en" },
       { link = "https://felipevaldez.com" },
+      { bluesky = "https://bsky.app/profile/fmvaldez" },
     ]
