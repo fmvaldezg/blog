@@ -32,8 +32,8 @@ highlightCurrentMenuArea = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
@@ -52,14 +52,14 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
-  sharingLinks = ["linkedin", "twitter", "email", "whatsapp"]
+  sharingLinks = ["linkedin", "twitter", "email", "whatsapp", "facebook"]
 
 [list]
   showHero = true
   showBreadcrumbs = false
   showSummary = true
   showViews = false
-  showLikes = false
+  showLikes = true
   showTableOfContents = false
   showCards = true
   groupByYear = true
@@ -72,3 +72,12 @@ highlightCurrentMenuArea = true
   showLikes = false
   showTableOfContents = false
   cardView = false
+
+[firebase]
+  apiKey = "AIzaSyCoKB8oOv_yknL422271HuvN4r99ekIN4Y"
+  authDomain = "fv-blog-27f90.firebaseapp.com"
+  projectId = "fv-blog-27f90"
+  storageBucket = "fv-blog-27f90.firebasestorage.app"
+  messagingSenderId = "818215560324"
+  appId = "1:818215560324:web:a4326d9eb6ff8cf77cced1"
+  measurementId = "G-RCZ10KPMYF"
