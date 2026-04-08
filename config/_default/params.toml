@@ -52,7 +52,7 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
-  sharingLinks = ["linkedin", "twitter", "email", "whatsapp", "facebook"]
+  sharingLinks = ["linkedin", "twitter", "bluesky",  "email", "whatsapp", "facebook"]
 
 [list]
   showHero = true
