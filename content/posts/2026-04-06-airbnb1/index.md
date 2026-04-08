@@ -1,10 +1,12 @@
 ---
-title: "Should we regulate Airbnb?"
+title: "Should we regulate Airbnb?*"
 date: 2026-04-06
-draft: true
+draft: false
 summary: "A brief analysis of Airbnb in Ecuador and some ideas for its regulation."
 tags: ["GIS", "geography", "short-term retanls", "Airbnb"]
 ---
+
+<small>*Translated from the [original post in spanish](https://blog.felipevaldez.com/es/posts/2026-04-06-airbnb1/).*</small>
 
 Short-term rentals—by the day or week—have existed long before this model was popularized by the emergence of digital platforms such as Airbnb or Vrbo.
 In recent years, due to the rapid proliferation of such rentals—especially in cities that receive large numbers of tourists—many conflicts have arisen. This has led some national and local governments to regulate this activity.
@@ -72,7 +74,7 @@ Regulation of short-term rentals is necessary in all cases; however, it must:
 
 In future posts, I will address the specific characteristics of this activity in the Galápagos and the ways to access and analyze data that may be useful for regulation.
 
-### Referencias
+### References
 
 [^1]: https://en.wikipedia.org/wiki/Airbnb.
 [^2]: https://en.wikipedia.org/wiki/Vrbo.
