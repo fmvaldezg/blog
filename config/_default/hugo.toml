@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Felipe Valdez - Blog"
 theme = "blowfish"
 enableRobotsTXT = true
+googleAnalytics = "G-RCZ10KPMYF"
 
 [pagination]
   pagerSize = 10
