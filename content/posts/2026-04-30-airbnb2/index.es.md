@@ -76,7 +76,7 @@ En el siguiente mapa se puede ver como en el caso de Puerto Ayora, existe una co
 Pueden ver una versión interactiva del mapa aquí. 
 
 
-{{< button href="https://fmvaldezg.codeberg.page/ptoayora-abb2026/airbnb_map.html" target="_blank" >}}
+{{< button href="https://fmvaldezg.codeberg.page/ptoayora-abb2026/" target="_blank" >}}
 Ver mapa
 {{< /button >}}
 
