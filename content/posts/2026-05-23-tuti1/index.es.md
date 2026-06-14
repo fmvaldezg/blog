@@ -1,7 +1,7 @@
 ---
 title: "La estrategia de los supermercados TuTi en Ecuador"
 date: 2026-05-24
-draft: trueç
+draft: false
 summary: "Un análisis de las fuentes de los datos de los supermercados TuTi en Ecuador. Se comparan los datos disponibles en OpenStreetMap, OvertureMaps y la web oficial de la cadena."
 tags: ["GIS", "geography", "open data", "supermarkets"]
 ---
@@ -147,9 +147,9 @@ Finalmente, está la opción de extraer los datos directamente de la web de TuTi
 
 Aunque los datos extraídos de la web de TuTi superan ampliamente a los de las otras plataformas, estos contienen algunas inconsistencias, especialmente en las coordenadas geográficas. Esto muestra que, probablemente, no existe un proceso de verificación y control de calidad en los datos que almacena TuTi sobre sus propios locales. Fue necesario relocalizar algunos puntos de manera manual usando la dirección como referencia.
 
-El script usado para extraer los datos es este.
+<!--El script usado para extraer los datos es este.
 
-{{< gist "fmvaldezg" "ed386e63d063d3fdd635bacbad108fcf" >}}
+{{< gist "fmvaldezg" "ed386e63d063d3fdd635bacbad108fcf" >}}-->
 
 En todo caso, con los datos obtenidos, se puede realiazr un análisis más fino de la distribución de los locales en cada ciudad y sus posibles impactos en las tiendas de barrio y la economía local. En un próximo post compartiré algunas impresiones sobre este tipo de análisis.
 
